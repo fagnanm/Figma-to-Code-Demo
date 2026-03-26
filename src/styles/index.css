@@ -1,0 +1,5 @@
+@import './fonts.css';
+@import '@jobber/design/dist/foundation.css';
+@import '@jobber/components/dist/styles.css';
+@import './tailwind.css';
+@import './theme.css';
